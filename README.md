@@ -1,4 +1,4 @@
-# bio.html
+
 <!DOCTYPE html>
 <html>
 <title>Wynter Samuels</title>
