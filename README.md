@@ -1,8 +1,9 @@
 <!DOCTYPE html>
 <html>
+<head>
+  <title>Wynter Samuels</title>
+</head>
 <body>
-  
-<title>Wynter Samuels</title>
 
 <p>A normal horizontal line:</p>
 <hr>
