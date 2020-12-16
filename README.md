@@ -1,11 +1,14 @@
-
 <!DOCTYPE html>
 <html>
-  <body>
+<body>
+  
 <title>Wynter Samuels</title>
 
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
+<p>A normal horizontal line:</p>
+<hr>
+
+<h1></h1>
+<p></p>
 
 </body>
 </html>
